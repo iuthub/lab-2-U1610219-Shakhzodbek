@@ -12,11 +12,18 @@
 
 .content{
 	border: 5px blue solid;
-	/*background-color: #E8FBFB;*/
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
 }
 .main_content{
 	border: 5px green solid;
-	/*background: url(images/background.jpg);*/
-	/*background-image: ;*/
-	/*background-color: beige;*/
+	background-color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+body{
+	background: url(images/bg.jpg);
+	background-size: cover;
+	background-position: center;
 }
