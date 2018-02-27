@@ -1,0 +1,22 @@
+.m_title{
+	border: 5px red solid;
+	text-align: right;
+}
+.motto{
+	border: 5px orange solid;
+}
+
+.date{
+	border: 5px darkviolet solid;
+}
+
+.content{
+	border: 5px blue solid;
+	/*background-color: #E8FBFB;*/
+}
+.main_content{
+	border: 5px green solid;
+	/*background: url(images/background.jpg);*/
+	/*background-image: ;*/
+	/*background-color: beige;*/
+}
