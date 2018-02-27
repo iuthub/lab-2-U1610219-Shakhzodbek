@@ -1,24 +1,25 @@
 .m_title{
-	border: 5px red solid;
+
 	text-align: right;
+	background-color: #A8F0F0;
 }
 .motto{
-	border: 5px orange solid;
+	font-size: 14pt;
 }
 
 .date{
-	border: 5px darkviolet solid;
+	border-bottom: 2px #009097 dashed;
 }
 
 .content{
-	border: 5px blue solid;
+	border: 4px #C2E9E9 solid;
 	background-color: #E8FBFB;
 	padding: 5px;
 	margin-top: 10px;
 	height: 200px;
 }
 .main_content{
-	border: 5px green solid;
+	border: 10px white solid;
 	background-color: white;
 	margin-left: 10%;
 	margin-right: 10%;
